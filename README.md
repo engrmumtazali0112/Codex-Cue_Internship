@@ -3,6 +3,14 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/engrmumtazali0112/Digital_Empowerment_Pakistan_Internships)
 ![GitHub stars](https://img.shields.io/github/stars/engrmumtazali0112/Digital_Empowerment_Pakistan_Internships?style=social)
 
+### 📺 Demo
+
+Here’s a quick demo of the Python GUI Calculator in action:
+
+[![Python GUI Calculator Video Demo](https://github.com/engrmumtazali0112/Codex-Cue_Internship/blob/main/Python-GUI-Calculator/bandicam2024-11-0100-03-36-318-ezgif.com-video-to-gif-converter.gif?raw=true)](https://github.com/engrmumtazali0112/Codex-Cue_Internship/blob/main/Python-GUI-Calculator/bandicam%202024-11-01%2000-03-36-318.mp4)
+
+
+
 # 📄 CODEXCUE Internship Report
 
 [📥 Download the report]
