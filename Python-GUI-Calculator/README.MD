@@ -1,10 +1,6 @@
-Calculator Application
 
-Author: Mumtaz Ali
-Year: 2024
-
-Description:
-This is a simple calculator application developed using Python and Tkinter. It provides basic arithmetic functions including addition, subtraction, multiplication, and division.
+#Python Command-Line and GUI Calculator
+A simple Python-based calculator that performs basic arithmetic operations through a graphical user interface (GUI).
 
 Features:
 - User-friendly interface with a clear display.
@@ -12,10 +8,37 @@ Features:
 - Real-time calculation results.
 - Responsive footer with author signature.
 
-Setup Instructions:
-1. Make sure you have Python installed on your computer.
-2. Download the files and open the main script in your preferred IDE.
-3. Run the script to launch the calculator application.
+## 📂 Projects
+
+### 1. Python Command-Line and GUI Calculator
+A simple Python-based calculator that performs basic arithmetic operations through a graphical user interface (GUI).
+
+Folder: Python-GUI-Calculator
+Key Features: User-friendly interface, Basic arithmetic operations (addition, subtraction, multiplication, division), Responsive design
+- **[View Project](https://github.com/engrmumtazali0112/Codex-Cue_Internship/tree/main/Python-GUI-Calculator/README.txt)**
+
+🛠️ #Technologies
+-Frontend: Tkinter (for GUI)
+-Backend: Python
+-Version Control: Git, GitHub
+
+🚀 #Getting Started
+Clone the repository:
+git clone (https://github.com/engrmumtazali0112/Codex-Cue_Internship/tree/main/Python-GUI-Calculator/README.txt)
+Navigate to the project folder:
+
+cd Codex-Cue_Internship/Python-GUI-Calculator
+Run the application:
+
+python calculator.py
+Follow the setup instructions in the README file for additional configurations.
+
+📚 Learning Outcomes
+- Proficiency in Python GUI development
+- Experience with event-driven programming
+- Understanding of basic arithmetic operations implementation
+- Skills in building user-friendly apMplications
+- Exposure to version control practices with Git and GitHub
 
 License:
 This project is licensed under the MIT License. See the LICENSE file for more details.
