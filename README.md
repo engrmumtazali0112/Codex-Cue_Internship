@@ -38,18 +38,7 @@ Clone the repository:
 git clone (https://github.com/engrmumtazali0112/Codex-Cue_Internship/tree/main/Python-GUI-Calculator/README.txt)
 Navigate to the project folder:
 
-cd Codex-Cue_Internship/Python-GUI-Calculator
-Run the application:
 
-python calculator.py
-Follow the setup instructions in the README file for additional configurations.
-
-📚 Learning Outcomes
-- Proficiency in Python GUI development
-- Experience with event-driven programming
-- Understanding of basic arithmetic operations implementation
-- Skills in building user-friendly applications
-- Exposure to version control practices with Git and GitHub
 
 ## 🌟 Project Highlights
 
@@ -69,10 +58,6 @@ For any queries regarding the internship program or projects:
 
 <p align="center">CODEXCUE future, one project at a time. 🇵🇰</p>
 ## 📞 Contact
-
-Mumtaz Ali - [engrmumtazali01@gmail.com](mailto:engrmumtazali01@gmail.com)
-
-Project Link: [https://github.com/engrmumtazali0112/CRUD-Application-PHP-MySQL](https://github.com/engrmumtazali0112/CRUD-Application-PHP-MySQL)
 
 <p align="center">
   <a href="mailto:engrmumtazali01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
