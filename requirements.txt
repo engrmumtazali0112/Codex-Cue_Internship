@@ -1,5 +1,0 @@
-SpeechRecognition
-pyttsx3
-gTTS
-wikipedia-api
-tk
