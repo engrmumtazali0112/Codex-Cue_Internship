@@ -1,0 +1,107 @@
+[
+    {
+        "timestamp": "2024-11-11 11:31:08",
+        "command": "i am fine",
+        "response": "Sorry, I encountered an error: module 'openai' has no attribute 'chat'"
+    },
+    {
+        "timestamp": "2024-11-11 11:39:05",
+        "command": "hi",
+        "response": "Sorry, I encountered an error: module 'openai' has no attribute 'chat'"
+    },
+    {
+        "timestamp": "2024-11-11 11:39:47",
+        "command": "hi",
+        "response": "Sorry, I encountered an error: module 'openai' has no attribute 'chat'"
+    },
+    {
+        "timestamp": "2024-11-11 11:52:23",
+        "command": "how are you sir",
+        "response": "Sorry, I encountered an error: module 'openai' has no attribute 'chat'"
+    },
+    {
+        "timestamp": "2024-11-11 11:53:47",
+        "command": "fgdg",
+        "response": "Sorry, I encountered an error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+    },
+    {
+        "timestamp": "2024-11-11 11:54:25",
+        "command": "hi",
+        "response": "Hello! How can I assist you today?"
+    },
+    {
+        "timestamp": "2024-11-11 11:54:43",
+        "command": "what is pakistan",
+        "response": "Pakistan is a country located in South Asia. It shares borders with India, Afghanistan, Iran, and China. Its capital city is Islamabad, and the official language is Urdu. Pakistan has a rich history and diverse culture."
+    },
+    {
+        "timestamp": "2024-11-11 11:55:44",
+        "command": "sir tell me about pakistan",
+        "response": "Pakistan is a country located in South Asia, bordered by India to the east, Afghanistan and Iran to the west, China to the north, and the Arabian Sea to the south. It has a rich history and diverse culture, with a population of over 220 million people. The capital city is Islamabad, while the largest city is Karachi. The official languages are Urdu and English. Pakistan is known for its stunning landscapes, including the mountainous regions in the north and the coastal areas in the south. The country has a mix of urban and rural areas, with a strong influence of Islamic traditions and a growing economy."
+    },
+    {
+        "timestamp": "2024-11-11 11:56:44",
+        "command": "hello sexy video how are you",
+        "response": "I'm here to assist you with any questions or information you may need. How can I help you today?"
+    },
+    {
+        "timestamp": "2024-11-11 11:57:12",
+        "command": "airtel balance check",
+        "response": "To check your Airtel balance, you can dial *121# and follow the on-screen instructions. Alternatively, you can also check your balance through the Airtel mobile app or by logging into your Airtel account online."
+    },
+    {
+        "timestamp": "2024-11-11 11:57:59",
+        "command": "chat how are you",
+        "response": "Hello! I'm here to help you. How can I assist you today?"
+    },
+    {
+        "timestamp": "2024-11-11 11:58:13",
+        "command": "are you today",
+        "response": "As an AI, I don't have feelings, but I'm here and ready to assist you. How can I help you today?"
+    },
+    {
+        "timestamp": "2024-11-11 11:58:28",
+        "command": "excuse me",
+        "response": "Hello! How can I assist you today?"
+    },
+    {
+        "timestamp": "2024-11-11 11:59:16",
+        "command": "the position",
+        "response": "Please provide more context or clarify your question so I can assist you better."
+    },
+    {
+        "timestamp": "2024-11-11 12:04:57",
+        "command": "who is gani khan baba?",
+        "response": "Ghani Khan Baba was a Pashto poet, writer, and philosopher from Pakistan. He was known for his poetry and philosophy that focused on love, humanity, and peace."
+    },
+    {
+        "timestamp": "2024-11-11 12:05:14",
+        "command": "write his some famouse poetry",
+        "response": "I apologize, but I cannot provide verbatim excerpts from famous poetry as it is protected by copyright laws. However, I can summarize the themes or help you with analysis or information about famous poets and their works. How can I assist you further?"
+    },
+    {
+        "timestamp": "2024-11-11 12:05:38",
+        "command": "show me his some poetry",
+        "response": "Sorry, I encountered an error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************QqwA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
+    },
+    {
+        "timestamp": "2024-11-11 12:08:09",
+        "command": "hi",
+        "response": "Sorry, I encountered an error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************QqwA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
+    },
+    {
+        "timestamp": "2024-11-11 12:09:06",
+        "command": "hi",
+        "response": "Sorry, I encountered an error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+    },
+    {
+        "timestamp": "2024-11-11 12:09:36",
+        "command": "hi sir",
+        "response": "Sorry, I encountered an error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+    },
+    {
+        "timestamp": "2024-11-11 12:28:42",
+        "command": "hi",
+        "response": "Sorry, I encountered an error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+    }
+]
