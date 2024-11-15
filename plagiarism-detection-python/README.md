@@ -56,7 +56,7 @@ plagiarism_detector/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/plagiarism-detector.git
+git clone https://github.com/engrmumtazali0112/Codex-Cue_Internship/tree/main/plagiarism-detection-python
 cd plagiarism-detector
 ```
 
@@ -138,4 +138,4 @@ Project maintained by [Mumtaz Ali](mailto:engrmumtazali01@gmail.com)
 
 CodexCue Software Solutions - [codexcuepak@gmail.com](mailto:codexcuepak@gmail.com)
 
-Project Link: [https://github.com/yourusername/plagiarism-detector](https://github.com/yourusername/plagiarism-detector)
+
