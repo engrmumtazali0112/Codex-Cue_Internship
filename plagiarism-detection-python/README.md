@@ -7,6 +7,13 @@ A robust Flask-based web application that detects plagiarism and AI-generated co
 ![NLTK](https://img.shields.io/badge/NLTK-3.6+-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+### 📺 Demo
+
+Here’s a quick demo of the Plagiarism Detection Tool in action:
+
+[![Plagiarism Detection Tool Video Demo](https://github.com/engrmumtazali0112/Codex-Cue_Internship/blob/main/plagiarism-detection-python/IMG_6924-ezgif.com-video-to-gif-converter.gif)](https://github.com/engrmumtazali0112/Codex-Cue_Internship/blob/main/plagiarism-detection-python/bandicam%202024-11-15%2008-36-19-818.mp4)
+
+
 ## 🚀 Features
 
 - **Multi-Document Comparison**: Compare multiple documents simultaneously
